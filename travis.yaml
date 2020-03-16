@@ -1,0 +1,6 @@
+language: java
+install:
+    - echo: "I am installing something important"
+script:
+    - echo "yay travis"
+    - echo "yay travis again"
