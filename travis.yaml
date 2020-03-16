@@ -4,3 +4,4 @@ install:
 script:
   - echo "yay travis"
   - echo "yay travis again"
+  - echo "Please buildddd"
